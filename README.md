@@ -3,7 +3,7 @@ Shopping cart for the Computer Store
 
 ## Installation
 
-To use this program, just clone this repository or download the zip file to your server root folder www/htdocs and access eg http://localhost/computer_store
+To use this program, just clone this repository or download the zip file to your server root folder www/htdocs and access eg http://localhost/store
 
 ### Composer
 
