@@ -11,7 +11,7 @@
                     <input type="hidden" name="product_sku" value="{$product.sku}">
                     <div class="col-sm-5 col-md-3">
                       <div class="thumbnail">
-                        <img src="https://placeholdit.imgix.net/~text?txtsize=33&txt={$product.sku}&w=242&h=200" alt="{$product.sku}">
+                        <img src="https://placeimg.com/242/200/tech?&time={$product.sku}" alt="{$product.sku}">
                         <div class="caption">
                           <h3>{$product.name}</h3>
                           <h4>US$ {number_format($product.price, 2, '.', '')}</h4>
