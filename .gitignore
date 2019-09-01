@@ -1,3 +1,5 @@
 vendor/
 .gitignore
 .git
+composer.lock
+templates_c/
